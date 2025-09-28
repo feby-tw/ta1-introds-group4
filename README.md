@@ -18,7 +18,7 @@
    - Download file `.ipynb` lalu upload manual ke repo GitHub.
 
 ## Pembagian Tugas
-Nomor 01-03   : Esra Frans Sunaryo Purba
-Nomor 04-05   : Ananda Zian Dhia’ulhaq
-Nomor 06-07   : Nadiyah Shabrina
-Nomro 08-10   : Feby Tri Wulandari
+- Nomor 01-03   : Esra Frans Sunaryo Purba
+- Nomor 04-05   : Ananda Zian Dhia’ulhaq
+- Nomor 06-07   : Nadiyah Shabrina
+- Nomor 08-10   : Feby Tri Wulandari
