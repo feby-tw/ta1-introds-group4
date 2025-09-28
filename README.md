@@ -3,7 +3,7 @@
 ## File dan Link Penting
 - **Dataset:** `dirty_cafe_sales.csv`
    dari sumber data [Link Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
-- **Notebook:** `team-assignment-1.ipynb` ([Link Google Colab](https://colab.research.google.com/drive/1aBmhSYJKbH2EBtHONK2tEz0dErs67H_o#scrollTo=Mv9WbzHPh1lo))
+- **Notebook:** `team-assignment-1.ipynb` ([Link Google Colab](https://colab.research.google.com/drive/1aBmhSYJKbH2EBtHONK2tEz0dErs67H_o#scrollTo=6pEvQ1X2_oyl))
 - **Dokumentasi:** [Link Google Docs](https://docs.google.com/document/d/15tUm2L-_dYIoUnrM9JdHlxuQYi-dJZ1s/edit)
 
 ## Cara Kerja Kolaborasi di Google Colab
