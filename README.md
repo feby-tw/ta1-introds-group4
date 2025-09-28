@@ -19,6 +19,6 @@
 
 ## Pembagian Tugas
 - Nomor 01-03   : Esra Frans Sunaryo Purba
-- Nomor 04-05   : Ananda Zian Dhia’ulhaq
+- Nomor 04-05   : Mochammad Chafiedz Afrilian
 - Nomor 06-07   : Nadiyah Shabrina
 - Nomor 08-10   : Feby Tri Wulandari
