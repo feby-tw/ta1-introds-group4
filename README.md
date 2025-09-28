@@ -1,7 +1,9 @@
 # Group 4 - Team Assignment 1 Documentation
 
 ## File dan Link Penting
-- **Dataset:** `dataset.csv`
+- **Dataset:** `dirty_cafe_sales.csv`
+  Dataset diambil dari **Kaggle** dalam format **CSV**
+  [Link Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 - **Notebook:** `team-assignment-1.ipynb` (dikerjakan di Google Colab)
 - **Dokumentasi:** [Link Google Docs](https://docs.google.com/document/d/15tUm2L-_dYIoUnrM9JdHlxuQYi-dJZ1s/edit)
 
